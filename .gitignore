@@ -1,0 +1,16 @@
+# Security Credentials
+.env
+
+# Dependencies
+/vendor/
+
+# PHPUnit & Testing Cache
+.phpunit.result.cache
+/tests/_output/
+/tests/_support/_generated/
+
+# IDE and System Files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
